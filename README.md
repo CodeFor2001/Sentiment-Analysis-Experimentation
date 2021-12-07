@@ -7,10 +7,14 @@ Till now i have tried:
 - NRClex (on cleaned data)
 - VADER SentimentIntensityAnalyser (on cleaned & uncleaned data) (My favorite one so far)
 
-Model directory:
+### Model directory:
+
 I'll be training a model That classifies tweets into +ve or -ve. 
+
 The dataset for training, I chose “Sentiment140”, which originated from Stanford University. 
+
 More info on the dataset can be found from the link. http://help.sentiment140.com/for-students/.
+
 The dataset can be downloaded from the below link. http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
 
 - DataCleaning.ipynb: Pre cleaning of data.
